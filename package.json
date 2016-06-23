@@ -1,0 +1,8 @@
+{
+  "name": "place",
+  "description": "Kirby Place Field",
+  "author": "August Miller <hello@gusmiller.com>",
+  "license": "MIT",
+  "version": "1.0.0",
+  "type": "kirby-field"
+}
